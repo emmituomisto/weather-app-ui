@@ -13,7 +13,8 @@ This **UI/UX design was created as part of the Iterative Application Project cou
 Each group collaborated with a **"friend group"** acting as a **customer**, simulating real-world agile workflows.  
 
 
-![Weather App UI](https://raw.githubusercontent.com/emmituomisto/Weather-App-UI/main/assets/Weather%20App%20Design.png)  
+![Weather App UI](https://raw.githubusercontent.com/emmituomisto/Weather-App-UI/main/assets/Weather%20Desktop%20App%20Design.png)  
+
 
 
 ## **My Role – Design & Prototyping**  
